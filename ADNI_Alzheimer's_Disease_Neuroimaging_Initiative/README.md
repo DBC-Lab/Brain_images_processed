@@ -4,7 +4,7 @@ The results inlcude (1) cerebrum tissue segmentation (CSF, GM and WM), and (2) p
 
 __Please download the results from xxxx.__ 
 
-Please note that the data in folder ***002_S_0295*** and *-T1w.nii.gz can only be used as examples to match the spatial orientation and resolution of the processed results. 
+Please note that the data in folder ***002_S_0295*** and __*-T1w.nii.gz__ can only be used as examples to match the spatial orientation and resolution of the processed results. 
 
 ## MR images from ADNI
 
