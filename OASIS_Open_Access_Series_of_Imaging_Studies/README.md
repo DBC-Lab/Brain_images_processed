@@ -25,5 +25,5 @@ Please note that the image data in folder ***OAS31170_Freesurfer53_d2410_Freesur
    
 The processed images and brain image results are shown as the following:
 
-   <img src="https://github.com/DBC-Lab/Brain_images_processed/blob/main/ADNI_Alzheimer's_Disease_Neuroimaging_Initiative/ADNI.png" width="80%">
+   <img src="https://github.com/DBC-Lab/Brain_images_processed/blob/main/OASIS_Open_Access_Series_of_Imaging_Studies/OASIS.png" width="80%">
 
