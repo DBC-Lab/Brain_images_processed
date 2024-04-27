@@ -20,3 +20,7 @@ __Please download the results from xxxx.__
     #### Outputs:
 
       The processed images, e.g., __ADNI_002_S_0295_MR_MP-RAGE__br_raw_20061102123250714_1_S21856_I28561-T1w.nii.gz__.
+   
+The processed images and brain image results are shown as the following:
+
+   <img src="https://github.com/DBC-Lab/Brain_images_processed/blob/main/ADNI_Alzheimer's_Disease_Neuroimaging_Initiative/ADNI.png" width="80%">
