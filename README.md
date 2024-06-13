@@ -1,6 +1,6 @@
 # Brain image results for ADNI (Alzheimer's Disease Neuroimaging Initiative) dataset processed by iBEAT V2.0.
 
-The results inlcude (1) cerebrum tissue segmentation (CSF, GM and WM), and (2) parcellation results. 
+The results include tissue segmentation (CSF, GM and WM). 
 
 __Please download the results from https://www.dropbox.com/scl/fo/2n3t7xciakfgrv48s1f51/AHIDNge5Is6RvjR7r1c3IaM?rlkey=hsxdkp2em5zo2mxql870exwph&st=m6uwbqcr&dl=0.__ 
 
@@ -29,8 +29,6 @@ The processed images and brain image results are shown as the following:
 
 
 # Brain image results for OASIS (Open Access Series of Imaging Studies) dataset processed by iBEAT V2.0.
-
-The results inlcude (1) cerebrum tissue segmentation (CSF, GM and WM), and (2) parcellation results. 
 
 __Please download the results from https://www.dropbox.com/scl/fo/xrm46gl91ywbfvcvqhrnp/AH4ptI_hU5X_hLsjt50tP2k?rlkey=pygv9iskmpukj2p3immue9fwk&st=0se2g090&dl=0.__ 
 
