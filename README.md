@@ -55,3 +55,4 @@ The processed images and brain image results are shown as the following:
 
    <img src="https://github.com/DBC-Lab/Brain_images_processed/blob/main/OASIS_Open_Access_Series_of_Imaging_Studies/OASIS.png" width="50%">
 
+![OASIS](https://github.com/DBC-Lab/Brain_images_processed/assets/110405481/83e628fd-0f63-4b73-ad33-f96c14068cc4)
