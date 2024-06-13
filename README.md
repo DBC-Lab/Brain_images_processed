@@ -25,7 +25,7 @@ Please note that the data in folder ***002_S_0295*** and __*-T1w.nii.gz__ can on
    
 The processed images and brain image results are shown as the following:
 
-   <img src="https://github.com/DBC-Lab/Brain_images_processed/blob/main/ADNI_Alzheimer's_Disease_Neuroimaging_Initiative/ADNI.jpg" width="50%">
+   <img src="DBC-Lab/Brain_images_processed/ADNI.jpg" width="50%">
 
 
 # Brain image results for OASIS (Open Access Series of Imaging Studies) dataset processed by iBEAT V2.0.
