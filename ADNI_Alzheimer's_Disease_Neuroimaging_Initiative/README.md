@@ -1,7 +1,5 @@
 # Brain image results for ADNI (Alzheimer's Disease Neuroimaging Initiative) dataset processed by iBEAT V2.0.
 
-The results inlcude (1) cerebrum tissue segmentation (CSF, GM and WM), and (2) parcellation results. 
-
 __Please download the results from https://www.dropbox.com/scl/fo/2n3t7xciakfgrv48s1f51/AHIDNge5Is6RvjR7r1c3IaM?rlkey=hsxdkp2em5zo2mxql870exwph&st=m6uwbqcr&dl=0.__ 
 
 Please note that the data in folder ***002_S_0295*** and __*-T1w.nii.gz__ can only be used as examples to match the spatial orientation and resolution of the processed results. 
