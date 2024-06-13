@@ -23,4 +23,5 @@ Please note that the data in folder ***002_S_0295*** and __*-T1w.nii.gz__ can on
    
 The processed images and brain image results are shown as the following:
 
-   <img src="https://github.com/DBC-Lab/Brain_images_processed/blob/main/ADNI_Alzheimer's_Disease_Neuroimaging_Initiative/ADNI.png" width="80%">
+ ![ADNI](https://github.com/DBC-Lab/Brain_images_processed/assets/110405481/065d5bca-22cd-4221-8388-3349068ecf12)
+
