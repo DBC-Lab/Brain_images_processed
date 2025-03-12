@@ -1,4 +1,6 @@
-Before you start, you must have obtained access to the original ADNI data and have the authorized right from ADNI to use the ADNI MRI data (http://adni.loni.usc.edu), and you must have obtained access to the original OASIS3 data and have the authorized right from OASIS3 to use the OASIS3 MRI data (https://www.oasis-brains.org/#access). 
+Before you start, you must have obtained access to the original ADNI data and have the authorized right from ADNI to use the ADNI MRI data (http://adni.loni.usc.edu), and you must fully agree to abide by the terms of Data Use Agreement from ADNI (http://adni.loni.usc.edu/wp-content/uploads/how_to_apply/ADNI_Data_Use_Agreement.pdf)
+
+Before you start, you must have obtained access to the original OASIS3 data and have the authorized right from OASIS3 to use the OASIS3 MRI data (https://www.oasis-brains.org/#access), and you must fully abide by the terms of Data Use Agreement from OASIS (https://www.oasis-brains.org/#access).
 
 
 
