@@ -35,7 +35,7 @@ The processed images and brain image results are shown as the following:
 
 
 
-# Brain image results for OASIS (Open Access Series of Imaging Studies) dataset processed by iBEAT V2.0.
+# Brain preprocessing results for OASIS (Open Access Series of Imaging Studies) dataset processed by iBEAT V2.0.
 
 __Please download the results from https://www.dropbox.com/scl/fo/xrm46gl91ywbfvcvqhrnp/AH4ptI_hU5X_hLsjt50tP2k?rlkey=pygv9iskmpukj2p3immue9fwk&st=0se2g090&dl=0.__ 
 
