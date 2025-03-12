@@ -1,3 +1,7 @@
+Before you start, you must have obtained access to the original ADNI data and have the authorized right from ADNI to use the ADNI MRI data (http://adni.loni.usc.edu), and obtained access to the original OASIS3 data and have the authorized right from OASIS3 to use the OASIS3 MRI data (https://www.oasis-brains.org/#access). 
+
+
+
 # Brain image results for ADNI (Alzheimer's Disease Neuroimaging Initiative) dataset processed by iBEAT V2.0.
 
 The results include tissue segmentation (CSF, GM and WM). 
