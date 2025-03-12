@@ -4,7 +4,7 @@ Before you start, you must have obtained access to the original OASIS3 data and 
 
 
 
-# Brain image results for ADNI (Alzheimer's Disease Neuroimaging Initiative) dataset processed by iBEAT V2.0.
+# Brain preprocessing results for ADNI (Alzheimer's Disease Neuroimaging Initiative) dataset processed by iBEAT V2.0.
 
 The results include tissue segmentation (CSF, GM and WM). 
 
@@ -14,7 +14,7 @@ Please note that the data in folder ***002_S_0295*** and __*-T1w.nii.gz__ can on
 
 ## MR images from ADNI
 
-1. Please download ADNI images from https://ida.loni.usc.edu/login.jsp. One example is in folder ***002_S_0295***. 
+1. We never share raw MRIs. You have to download ADNI raw images from https://ida.loni.usc.edu/login.jsp. One example is in folder ***002_S_0295***. 
 2. Please use __T1w_space_consistency_for_ADNI.py__ to match the spatial orientation and resolution of the processed results.
 
    `python3 T1w_space_consistency_for_ADNI.py`
@@ -43,7 +43,7 @@ Please note that the image data in folder ***OAS31170_Freesurfer53_d2410_Freesur
 
 ## MR images from OASIS
 
-1. Please download OASIS images processed by FreeSurfer from xxxx. One example is in folder ***OAS31170_Freesurfer53_d2410_Freesurfer***. 
+1. We never share raw MRIs. You have to download OASIS raw images processed by FreeSurfer from xxxx. One example is in folder ***OAS31170_Freesurfer53_d2410_Freesurfer***. 
 2. Please use __T1w_space_consistency_for_OASIS3.py__ to match the spatial orientation and resolution of the processed results.
 
    `python3 T1w_space_consistency_for_OASIS3.py`
